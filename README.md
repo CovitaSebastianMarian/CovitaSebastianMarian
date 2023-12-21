@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I have been learning programming since 2020, since 2021 I have taken it seriously through competitive programming in C++, alternatively I have also worked in Html, CSS and JS (which are not programming languages), Python, C#, Go, I tried and Flutter and Dart and now I've been studying Rust for almost 6 months. I worked on computer graphics in C++. I started with SFML, then I switched to OpenGL with GLUT and now I'm with OpenGL with GLFW. I learned a lot of algorithms and understood the C++ language more than was necessary and that's why I switched to other languages.
+I have been learning programming since 2020, since 2021 I have taken it seriously through competitive programming in C++, alternatively I have also worked in Html, CSS and JS (which are not programming languages), Python, C#, Go, I tried and Flutter and Dart and now I've been studying Rust for almost 6 months. 
+I worked on computer graphics in C++. I started with SFML, then I switched to OpenGL with GLUT and now I'm with OpenGL with GLFW. 
+I learned a lot of algorithms and understood the C++ language more than was necessary and that's why I switched to other languages.
+I'm quite active on github only that I have the private repositories.
 
 * 🌍  I'm based in Romania
 * 🧠  I'm learning C++, Rust, Html, CSS, JS, GO, C#, Python
