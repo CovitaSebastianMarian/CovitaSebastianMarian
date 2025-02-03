@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Coviță Sebastian-Marian
 ===============================================================================================================================================
 
-Highschool student
+College student 
+UAIC Romania
 -------
 
 I have been learning programming since 2020, since 2021 I have taken it seriously through competitive programming in C++, alternatively I have also worked in Html, CSS and JS (which are not programming languages), Python, C#, Go, I tried and Flutter and Dart and now I've been studying Rust for almost 6 months. 
