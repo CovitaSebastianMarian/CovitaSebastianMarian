@@ -5,7 +5,7 @@ College student
 UAIC Romania
 -------
 
-I have been learning programming since 2020, since 2021 I have taken it seriously through competitive programming in C++, alternatively I have also worked in Html, CSS and JS (which are not programming languages), Python, C#, Go, I tried and Flutter and Dart and now I've been studying Rust for almost 6 months. 
+I have been learning programming since 2020, since 2021 I have taken it seriously through competitive programming in C++, alternatively I have also worked in Html, CSS and JS (which are not programming languages), Python, C#, Go, I tried and Flutter and Dart and now I've been studying Rust for almost 1 year. 
 I worked on computer graphics in C++. I started with SFML, then I switched to OpenGL with GLUT and now I'm with OpenGL with GLFW. 
 I learned a lot of algorithms and understood the C++ language more than was necessary and that's why I switched to other languages.
 I'm quite active on github only that I have the private repositories.
